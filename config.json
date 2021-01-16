@@ -1,0 +1,9 @@
+{
+  "token": "Nzk4MzIyMDA2ODQzMTk1NDQy.X_zVTg.-ktSZT5oHf_AJMkYXbPsDViGkQ0",
+  "prefix": ".",
+  "scopes": ["identify", "guilds"],
+  "prompt": "consent",
+  "clientID": "798322006843195442",
+  "clientSecret": "21AEPlobxl5imdieB-TiB1B0GeiAUy3C",
+  "redirectURL": "https://codingpr.glitch.me/callback"
+}
